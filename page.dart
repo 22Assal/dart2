@@ -3,7 +3,7 @@ class Person {
   int age;
   Person ( this.name, this.age);
   void PrintInfo(){
-    print("name : $name , age: $age");
+    print("n  ame : $name , age: $age");
   }
 }
 
